@@ -1,0 +1,6 @@
+name: default-repo-sop
+description: SOP testing default repo
+phases:
+  - id: step1
+    steps:
+      - action: do thing
