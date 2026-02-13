@@ -1,6 +1,6 @@
 type: agent
 name: default-repo-test
-description: Verifies default repo and path convention
+description: Verifies definitions go to legion-defs
 handlers:
   onMessage:
     actions:
