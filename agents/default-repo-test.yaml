@@ -1,7 +1,0 @@
-type: agent
-name: default-repo-test
-description: Verifies definitions go to legion-defs
-handlers:
-  onMessage:
-    actions:
-      - reply: works
