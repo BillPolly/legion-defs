@@ -1,6 +1,0 @@
-name: default-repo-sop
-description: SOP testing repo routing
-phases:
-  - id: step1
-    steps:
-      - action: do thing
