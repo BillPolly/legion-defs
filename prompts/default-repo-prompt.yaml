@@ -1,0 +1,3 @@
+name: default-repo-prompt
+description: Test prompt routing
+template: Hello {{name}}
